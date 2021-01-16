@@ -38,12 +38,11 @@ h3{
     height: 300px;
     width: 280px;
     background-color: #F1F1F1;
-    margin-left: 33px;
+    margin-left: 39px;
     border-radius: 1em;
+    padding: 15px 25px;
 }
-.card-img img{
-    width: 100px;
-}
+
 body{
     font-family: 'Roboto', sans-serif;
 }
