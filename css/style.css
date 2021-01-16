@@ -36,11 +36,12 @@ h3{
 }
 .card-img{
     height: 300px;
-    width: 280px;
+    width: 300px;
     background-color: #F1F1F1;
-    margin-left: 39px;
+    margin-left: 25px;
+    margin-top: 5px;
     border-radius: 1em;
-    padding: 15px 25px;
+    padding: 15px 45px;
 }
 
 body{
